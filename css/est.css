@@ -1,5 +1,13 @@
 #ji{
     background-color: beige;
+    height: 150px;
 }
 
+#l{
+    float: right;
+}
 
+li{
+    display: inline;
+    
+}
